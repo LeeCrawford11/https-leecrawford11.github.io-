@@ -1,0 +1,20 @@
+h1 {
+    font-weight: bold;
+    color: black;
+    font-size: 100px;
+    font-family: Arial;
+}
+
+.btn-info {
+    --bs-btn-bg: #a5cdd5;
+}
+
+.custom-fill .col {
+    flex: 1; /* Causes columns to equally fill the row */
+}
+
+p2 {
+    color: black;
+    font-size: 20px;
+    font-family: Arial;
+}
